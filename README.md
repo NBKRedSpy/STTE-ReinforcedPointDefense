@@ -1,4 +1,4 @@
-# Reinforced Point Defense
+# Point Defense in Core Weapon Slots
 
 ![thumbnail icon](media/thumbnail.png)
 

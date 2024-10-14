@@ -1,5 +1,4 @@
-[h1]Reinforced Point Defense[/h1]
-
+[h1]Point Defense in Core Weapon Slots[/h1]
 
 Allows point defense weapons to be mounted on Weapon Core slots.  By default, the game only allows point defense weapons to be placed in Hybrid and Weapon slots, but oddly not the highest weapon slot upgrade.
 
